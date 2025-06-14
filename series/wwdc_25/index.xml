@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WWDC 25 on Zeyrie&#39;s Blog</title>
-    <link>http://localhost:1313/series/wwdc/wwdc25/</link>
-    <description>Recent content in WWDC 25 on Zeyrie&#39;s Blog</description>
+    <title>Wwdc_25 on Zeyrie&#39;s Blog</title>
+    <link>http://localhost:1313/series/wwdc_25/</link>
+    <description>Recent content in Wwdc_25 on Zeyrie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>abilash@zeyrie.dev (Abilash S)</managingEditor>
     <webMaster>abilash@zeyrie.dev (Abilash S)</webMaster>
     <copyright>Copyright (c) 2025 Abilash S. All Rights Reserved.</copyright>
-    <atom:link href="http://localhost:1313/series/wwdc/wwdc25/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/wwdc_25/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
