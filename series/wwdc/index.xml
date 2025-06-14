@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WWDC on Zeyrie's Blog</title><link>https://blog.zeyrie.dev/series/wwdc/</link><description>Recent content in WWDC on Zeyrie's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>abilash@zeyrie.dev (Abilash S)</managingEditor><webMaster>abilash@zeyrie.dev (Abilash S)</webMaster><copyright>Copyright (c) 2025 Abilash S. All Rights Reserved.</copyright><lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0530</lastBuildDate><atom:link href="https://blog.zeyrie.dev/series/wwdc/index.xml" rel="self" type="application/rss+xml"/><item><title>WWDC Group Session Notes</title><link>https://blog.zeyrie.dev/series/wwdc/wwdc25/</link><pubDate>Sat, 14 Jun 2025 00:00:00 +0530</pubDate><author>abilash@zeyrie.dev (Abilash S)</author><guid>https://blog.zeyrie.dev/series/wwdc/wwdc25/</guid><description>&lt;p>At this year&amp;rsquo;s WWDC, Apple released a major change to the design system: Liquid Glass.&lt;/p>
-&lt;h2 class="relative group">SwiftUI Session
-&lt;div id="swiftui-session" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#swiftui-session" aria-label="Anchor">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>Notes from the group session regarding SwiftUI:&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.zeyrie.dev/series/wwdc/wwdc25/featured.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WWDC on Zeyrie's Blog</title><link>https://blog.zeyrie.dev/series/wwdc/</link><description>Recent content in WWDC on Zeyrie's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>abilash@zeyrie.dev (Abilash S)</managingEditor><webMaster>abilash@zeyrie.dev (Abilash S)</webMaster><copyright>Copyright (c) 2025 Abilash S. All Rights Reserved.</copyright><atom:link href="https://blog.zeyrie.dev/series/wwdc/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
