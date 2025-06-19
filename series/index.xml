@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Series on Zeyrie's Blog</title><link>https://blog.zeyrie.dev/series/</link><description>Recent content in Series on Zeyrie's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>abilash@zeyrie.dev (Abilash S)</managingEditor><webMaster>abilash@zeyrie.dev (Abilash S)</webMaster><copyright>Copyright (c) 2025 Abilash S. All Rights Reserved.</copyright><lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0530</lastBuildDate><atom:link href="https://blog.zeyrie.dev/series/index.xml" rel="self" type="application/rss+xml"/><follow_challenge><feedId>158462590871696384</feedId><userId>158220646767909888</userId></follow_challenge><item><title>WWDC 25</title><link>https://blog.zeyrie.dev/series/wwdc25/</link><pubDate>Sat, 14 Jun 2025 00:00:00 +0530</pubDate><author>abilash@zeyrie.dev (Abilash S)</author><guid>https://blog.zeyrie.dev/series/wwdc25/</guid><description>&lt;p>New Liquid Glass Design Systems, Foundation Models, MLX and more&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Zeyrie&#39;s Blog</title>
+    <link>http://localhost:1313/series/</link>
+    <description>Recent content in Series on Zeyrie&#39;s Blog</description>
+    <generator>Hugo 0.147.8</generator>
+    <language>en</language>
+    <managingEditor>abilash@zeyrie.dev (Abilash S)</managingEditor>
+    <webMaster>abilash@zeyrie.dev (Abilash S)</webMaster>
+    <lastBuildDate>Sun, 15 Jun 2025 04:00:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WWDC 25</title>
+      <link>http://localhost:1313/series/wwdc25/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0530</pubDate><author>abilash@zeyrie.dev (Abilash S)</author>
+      <guid>http://localhost:1313/series/wwdc25/</guid>
+      <description>&lt;p&gt;New Liquid Glass Design Systems, Foundation Models, MLX and more&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

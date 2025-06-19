@@ -1,1 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Zeyrie's Blog</title><link>https://blog.zeyrie.dev/tags/</link><description>Recent content in Tags on Zeyrie's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>abilash@zeyrie.dev (Abilash S)</managingEditor><webMaster>abilash@zeyrie.dev (Abilash S)</webMaster><copyright>Copyright (c) 2025 Abilash S. All Rights Reserved.</copyright><lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0530</lastBuildDate><atom:link href="https://blog.zeyrie.dev/tags/index.xml" rel="self" type="application/rss+xml"/><follow_challenge><feedId>158462590871696384</feedId><userId>158220646767909888</userId></follow_challenge><item><title>Wwdc</title><link>https://blog.zeyrie.dev/tags/wwdc/</link><pubDate>Sat, 14 Jun 2025 00:00:00 +0530</pubDate><author>abilash@zeyrie.dev (Abilash S)</author><guid>https://blog.zeyrie.dev/tags/wwdc/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Zeyrie&#39;s Blog</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Zeyrie&#39;s Blog</description>
+    <generator>Hugo 0.147.8</generator>
+    <language>en</language>
+    <managingEditor>abilash@zeyrie.dev (Abilash S)</managingEditor>
+    <webMaster>abilash@zeyrie.dev (Abilash S)</webMaster>
+    <lastBuildDate>Mon, 16 Jun 2025 22:00:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Server</title>
+      <link>http://localhost:1313/tags/server/</link>
+      <pubDate>Mon, 16 Jun 2025 22:00:00 +0530</pubDate><author>abilash@zeyrie.dev (Abilash S)</author>
+      <guid>http://localhost:1313/tags/server/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ssh</title>
+      <link>http://localhost:1313/tags/ssh/</link>
+      <pubDate>Mon, 16 Jun 2025 22:00:00 +0530</pubDate><author>abilash@zeyrie.dev (Abilash S)</author>
+      <guid>http://localhost:1313/tags/ssh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wwdc</title>
+      <link>http://localhost:1313/tags/wwdc/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0530</pubDate><author>abilash@zeyrie.dev (Abilash S)</author>
+      <guid>http://localhost:1313/tags/wwdc/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
