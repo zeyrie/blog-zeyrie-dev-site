@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Server on Zeyrie&#39;s Blog</title>
+    <link>http://localhost:1313/tags/server/</link>
+    <description>Recent content in Server on Zeyrie&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>abilash@zeyrie.dev (Abilash S)</managingEditor>
+    <webMaster>abilash@zeyrie.dev (Abilash S)</webMaster>
+    <copyright>Copyright (c) 2025 Abilash S. All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 16 Jun 2025 22:00:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/server/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SSH Security Hardening</title>
+      <link>http://localhost:1313/posts/server/</link>
+      <pubDate>Mon, 16 Jun 2025 22:00:00 +0530</pubDate>
+      <author>abilash@zeyrie.dev (Abilash S)</author>
+      <guid>http://localhost:1313/posts/server/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;span class=&#34;org-todo todo TODO&#34;&gt;TODO&lt;/span&gt; Provide a small into on SSH security 
+    &lt;div id=&#34;provide-a-small-into-on-ssh-security&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#provide-a-small-into-on-ssh-security&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;Creating SSH Key Pairs 
+    &lt;div id=&#34;creating-ssh-key-pairs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#creating-ssh-key-pairs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;On the local computer, create SSH Keys.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
